@@ -18,8 +18,8 @@ Os alunos devem:
 Abra o terminal e execute:
 ```sh
 git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplicativo-desktop.git
-````
-````
+```
+````sh
 cd estoque-app
 ```
 
