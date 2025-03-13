@@ -21,9 +21,9 @@ git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplic
 ```
 ````sh
 cd estoque-app
-```
+````
 
-### ▶️ Executando o Aplicativo
+### Executando o Aplicativo
 1. Abra o projeto em um ambiente de desenvolvimento (ex: Visual Studio, VS Code).
 2. Compile e execute o programa:
    - No Visual Studio: Pressione **F5** para rodar.
@@ -34,12 +34,12 @@ cd estoque-app
 
 ---
 
-## 🧪 Testes e Versionamento
-### 🔍 Testando o Aplicativo
+## Testes e Versionamento
+### Testando o Aplicativo
 - Execute diferentes tipos de testes (unitário, funcional, exploratório, etc.).
 - Registre os resultados, identificando falhas e sugerindo melhorias.
 
-### 💾 Versionamento com Git
+### Versionamento com Git
 1. Crie uma nova branch para seus testes:
    ```sh
    git checkout -b minha-branch-teste
@@ -56,15 +56,15 @@ cd estoque-app
 
 ---
 
-## 📄 Relatório Final
+## Relatório Final
 Os alunos devem entregar um relatório contendo:
-✅ Configuração do ambiente e execução do aplicativo.
-✅ Tipos de testes aplicados e seus resultados.
-✅ Melhorias sugeridas.
-✅ Histórico de commits e versionamento.
+Configuração do ambiente e execução do aplicativo.
+Tipos de testes aplicados e seus resultados.
+Melhorias sugeridas.
+Histórico de commits e versionamento.
 
-📌 **Prazo de entrega:** 21/03/2025
+**Prazo de entrega:** 21/03/2025
 
 ---
 
-🚀 **Bom aprendizado!**
+**Bom aprendizado!**
