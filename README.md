@@ -1,9 +1,9 @@
 # Gerenciamento de Estoque - Aplicativo Desktop
 
-## 📌 Descrição
-Este é um aplicativo simples de gerenciamento de estoque desenvolvido em C# para fins educacionais. O objetivo é permitir que os alunos pratiquem conceitos de testes de software, versionamento e documentação.
+## Descrição
+Este é um aplicativo simples de gerenciamento de estoque desenvolvido em C# para fins educacionais. O objetivo é permitir que os alunos desenvolvam conceitos de testes de software, versionamento e documentação.
 
-## 🎯 Objetivos da Atividade
+## Objetivos da Atividade
 Os alunos devem:
 1. Clonar o repositório e configurar o ambiente.
 2. Executar o aplicativo e testar suas funcionalidades.
@@ -13,11 +13,13 @@ Os alunos devem:
 
 ---
 
-## 🔧 Configuração e Execução
-### 📥 Clonando o Repositório
+## Configuração e Execução
+### Clonando o Repositório
 Abra o terminal e execute:
 ```sh
 git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplicativo-desktop.git
+````
+````
 cd estoque-app
 ```
 
