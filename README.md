@@ -14,7 +14,7 @@ Os alunos devem:
 ---
 
 ## Configuração e execução
-### Clonando o Repositório
+### Clonando o repositório
 Abra o terminal e execute:
 ```sh
 git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplicativo-desktop.git
@@ -35,7 +35,7 @@ cd estoque-app
 ---
 
 ## Testes e versionamento
-### Testando o Aplicativo
+### Testando o aplicativo
 - Execute diferentes tipos de testes (unitário, funcional, exploratório, etc.).
 - Registre os resultados, identificando falhas e sugerindo melhorias.
 
