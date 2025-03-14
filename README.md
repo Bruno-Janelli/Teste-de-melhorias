@@ -3,7 +3,7 @@
 ## Descrição
 Este é um aplicativo simples de gerenciamento de estoque desenvolvido em C# para fins educacionais. O objetivo é permitir que os alunos desenvolvam conceitos de testes de software, versionamento e documentação.
 
-## Objetivos da Atividade
+## Objetivos da atividade
 Os alunos devem:
 1. Clonar o repositório e configurar o ambiente.
 2. Executar o aplicativo e testar suas funcionalidades.
@@ -13,7 +13,7 @@ Os alunos devem:
 
 ---
 
-## Configuração e Execução
+## Configuração e execução
 ### Clonando o Repositório
 Abra o terminal e execute:
 ```sh
@@ -23,7 +23,7 @@ git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplic
 cd estoque-app
 ````
 
-### Executando o Aplicativo
+### Executando o aplicativo
 1. Abra o projeto em um ambiente de desenvolvimento (ex: Visual Studio, VS Code).
 2. Compile e execute o programa:
    - No Visual Studio: Pressione **F5** para rodar.
@@ -34,7 +34,7 @@ cd estoque-app
 
 ---
 
-## Testes e Versionamento
+## Testes e versionamento
 ### Testando o Aplicativo
 - Execute diferentes tipos de testes (unitário, funcional, exploratório, etc.).
 - Registre os resultados, identificando falhas e sugerindo melhorias.
@@ -56,7 +56,7 @@ cd estoque-app
 
 ---
 
-## Relatório Final
+## Relatório final
 Os alunos devem entregar um relatório contendo:
 Configuração do ambiente e execução do aplicativo.
 Tipos de testes aplicados e seus resultados.
@@ -66,5 +66,3 @@ Histórico de commits e versionamento.
 **Prazo de entrega:** 21/03/2025
 
 ---
-
-**Bom aprendizado!**
