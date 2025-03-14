@@ -47,6 +47,8 @@ cd EstoqueApp
 2. Faça alterações e commits:
    ```sh
    git add .
+   ````
+   ```sh
    git commit -m "Adicionando testes e melhorias"
    ```
 3. Envie as mudanças para o GitHub:
