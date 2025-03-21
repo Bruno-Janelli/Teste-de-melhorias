@@ -82,6 +82,8 @@ namespace EstoqueApp
         }
     }
 
+    /* Recomendo adicionar uma função para deletar produtos, e editar os produtos */
+
     class Produto
     {
         public string Nome { get; set; }
