@@ -13,14 +13,14 @@ namespace EstoqueApp
             do
             {
                 Console.WriteLine("\n=== Gerenciamento de Estoque ===");
-                Console.WriteLine("1. Adicionar Produto\n");
+                Console.WriteLine("\n1. Adicionar Produto\n");
                 Console.WriteLine("2. Listar Produtos\n");
                 Console.WriteLine("3. Sair\n");
                 Console.Write("Escolha uma opção: ");
 
                 if (!int.TryParse(Console.ReadLine(), out opcao))
                 {
-                    Console.WriteLine("Opção inválida! Tente novamente.");
+                    Console.WriteLine("\nOpção inválida! Tente novamente.");
                     continue;
                 }
 
@@ -33,10 +33,10 @@ namespace EstoqueApp
                         ListarProdutos();
                         break;
                     case 3:
-                        Console.WriteLine("Saindo...");
+                        Console.WriteLine("\nSaindo...");
                         break;
                     default:
-                        Console.WriteLine("Opção inválida! Tente novamente.");
+                        Console.WriteLine("\nOpção inválida! Tente novamente.");
                         break;
                 }
 
@@ -45,7 +45,7 @@ namespace EstoqueApp
 
         static void AdicionarProduto()
         {
-            Console.Write("Nome do Produto: ");
+            Console.Write("\nNome do Produto: ");
             string nome = Console.ReadLine();
 
             Console.Write("Quantidade: ");
@@ -63,7 +63,7 @@ namespace EstoqueApp
             }
 
             produtos.Add(new Produto(nome, quantidade, preco));
-            Console.WriteLine("Produto adicionado com sucesso!");
+            Console.WriteLine("\nProduto adicionado com sucesso!\n");
         }
 
         static void ListarProdutos()
@@ -71,7 +71,7 @@ namespace EstoqueApp
             Console.WriteLine("\n=== Lista de Produtos ===");
             if (produtos.Count == 0)
             {
-                Console.WriteLine("Nenhum produto cadastrado.");
+                Console.WriteLine("\nNenhum produto cadastrado.");
                 return;
             }
 
